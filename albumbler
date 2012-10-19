@@ -1,4 +1,7 @@
-#! /usr/bin/env python2
+#! /usr/bin/env python
+
+# On Debian, my python2 is called 'python'  I must figure out how to
+# fix this problem so it works for everyone. JB
 
 # Copyright Kyle Keen 2010
 # gpl v2
